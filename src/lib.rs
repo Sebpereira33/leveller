@@ -14,6 +14,7 @@ mod stable_token {
                     init {
                         "name" => "Leveller", locked;
                         "symbol" => "LV", locked;
+                        "icon_url" => Url::of("https://drive.google.com/file/d/1HTQ6YcQL-Qk4r_Luuio97KXXHIEZwXV_/view?usp=sharing"), locked;
                         }
                     ))
                 .mint_roles(mint_roles!{
