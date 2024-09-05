@@ -14,7 +14,7 @@ mod stable_token {
                     init {
                         "name" => "Leveller", locked;
                         "symbol" => "LV", locked;
-                        "icon_url" => Url::of("https://drive.google.com/file/d/1HTQ6YcQL-Qk4r_Luuio97KXXHIEZwXV_/view?usp=sharing"), locked;
+                        "icon_url" => Url::of("https://ipfs.io/ipfs/QmX5TPMCRXFfRDoRs3qoQCYUqVL4F9om9oXfjTmauihsFv?filename=StableDAO_Icon_Logo_a6e5dc_.png"), updatable;
                         }
                     ))
                 .mint_roles(mint_roles!{
